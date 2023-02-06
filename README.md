@@ -1,2 +1,2 @@
 # scripts
-GIST Collection
+GIST and Algos Collection
